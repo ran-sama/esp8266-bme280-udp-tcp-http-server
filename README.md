@@ -1,4 +1,4 @@
-# esp8266-bme280-udp-tcp-http-server
+# esp32-bme280-udp-tcp-http-server
 These sensors had pads to change the i2c addresses to different ones. But what if you cannot change an i2c address?
 You use the two wire protocol and utilize both sets of i2c interfaces of your esp32!
 
